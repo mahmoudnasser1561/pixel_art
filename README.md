@@ -32,6 +32,7 @@ pip install .
 ```
 
 ## 🛠️ Usage
+## Quick Start 🚀
 
 ### Display a Pre-Made Example
 
