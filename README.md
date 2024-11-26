@@ -40,12 +40,13 @@ from pixel_art.examples import examples
 
 # Display the pre-made house example
 examples.show_house()
+```
    🟥🟥🟥   
   🟥🟩🟩🟥  
  🟥🟩🟩🟩🟥 
 🟫🟫🟫🟫🟫🟫
 
-```
+
 
 ### Create Your Own Pixel Art
 
