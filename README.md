@@ -81,6 +81,7 @@ smile.add_row(6, 'yellow')
 smile.display()
 ```
 ```
+![smile face](main/media_1_6763095104801fc879d120bf46dcbe32-f7e22cc25e0ad845.webp)
 ```
 
 
